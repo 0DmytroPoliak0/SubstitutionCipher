@@ -8,5 +8,4 @@ A simple C++ implementation of a substitution cipher with encryption and decrypt
 - **Input Validation**: Ensures that only valid alphabetic characters are processed for encryption and valid numeric sequences are processed for decryption.
 - **Error Handling**: Provides robust error handling for invalid inputs.
 
-## Sample Runs
-### Encryption
+
